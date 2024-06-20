@@ -1,4 +1,5 @@
 import Content from "./Components/Content";
+import Footer from "./Components/Footer";
 import Home from "./Components/Home";
 import Navbar from "./Components/Navbar";
 
@@ -9,6 +10,7 @@ function App() {
       <main>
         <Home />
         <Content />
+        <Footer />
       </main>
     </div>
   );
